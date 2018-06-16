@@ -1,0 +1,5 @@
+Generics and collections work well with a number of other new features introduced in
+the latest versions of Java, including boxing and unboxing, a new form of loop, and
+functions that accept a variable number of arguments. We begin with an example that
+illustrates all of these. As we shall see, combining them is synergistic: the whole is greater
+than the sum of its parts.
